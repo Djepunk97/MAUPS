@@ -6,9 +6,11 @@ Malware Analysis Using Python Script
 
 This is a portable script written in python used for "Static Analysis" of malwares. Focus on malware PE Headers, Strings, Image Type, MD5 Hash, VirusTotal Analysis. You can skip VirusTotal API if dont want to upload your sample on VirusTotal. Supported wherever python is installed (Tested on Linux, Windows).
 
-# Pre-requesites (Only for Windows OS)
+# Pre-Requesites (Only for Windows OS)
 
-pip install requirements.txt
+Install the following libraries: requests, pefile and pywin32.
+
+pip install -r requirements.txt
 
 # Usage
 
