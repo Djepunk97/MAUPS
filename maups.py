@@ -8,7 +8,7 @@ import struct
 print '\n'
 print ' +++++++++++++++++++++++++++++++++++++++++++++++++'
 print ' + Copyright :- Shilpesh Trivedi                 +'
-print ' + Title :- Portable Malware Analysisy Tool      +'
+print ' + Title :- Malware Analysis Using Python Script +'
 print ' +++++++++++++++++++++++++++++++++++++++++++++++++'
 
 
