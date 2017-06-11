@@ -210,6 +210,8 @@ try:
                         print '\n [*] ' + f +' ['+hash+']' + ' is malicious'
                         file = open('output.txt','a')
                         file.write('[*] ' + f + ' [' + hash + '] is malicious. Hit Count:' + str(positives))
+                        file.write('\n\n')
+                        file.write(str(scans).replace('}, u','\n').replace(' u','').replace('{','').replace(': u',' = ').replace("'","").replace('}}',''))
                         file.write('\n')
                         file.close()
                 else:
