@@ -21,7 +21,7 @@ python maups.py
  +++++++++++++++++++++++++++++++++++++++++++++++++
  
     Copyright :- Shilpesh Trivedi             
-    Title :- Portable Malware Analysisy Tool  
+    Title :- Title :- Malware Analysis Using Python Script  
  
  +++++++++++++++++++++++++++++++++++++++++++++++++
 
