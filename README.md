@@ -33,14 +33,6 @@ python maups.py
         + Title :- Malware Analysis Using Python Script +
         +++++++++++++++++++++++++++++++++++++++++++++++++
 
-
- +++++++++++++++++++++++++++++++++++++++++++++++++
- 
-    Copyright :- Shilpesh Trivedi             
-    Title :- Malware Analysis Using Python Script  
- 
- +++++++++++++++++++++++++++++++++++++++++++++++++
-
  [*] Enter file name which you want to scan :- Path_to_the_malware
 
  [*] Enter Virus Total API Key :- VirusTotal_API_key
