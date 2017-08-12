@@ -4,7 +4,28 @@ Malware Analysis Using Python Script v1.1
 
 # Description
 
-This is a portable script written in python used for "Static Analysis" of malwares. Focus on malware PE Headers, Strings, Image Type, MD5 Hash, VirusTotal Analysis. You can skip VirusTotal API Key if dont want to upload your sample on VirusTotal. Supported wherever python is installed (Tested on Linux, Windows). MAUPS will generate three output files in the same folder as the script: Strings.txt for the extracted strings, PE Analysis.txt for PE headers and VT Scan.txt for the how many AV (Name of AV eg Sophos, symantec. etc) is able to detect with the name of detected malware, will contain VirusTotal output. 
+This is a portable script written in python used for "Static Analysis" of malwares. Focus on malware PE Headers, Strings, Image Type, MD5 Hash, VirusTotal Analysis. You can skip VirusTotal API Key if dont want to upload your sample on VirusTotal. Supported wherever python is installed (Tested on Linux, Windows). MAUPS will generate three output files in the same folder as the script: Strings.txt for the extracted strings, PE Analysis.txt for PE headers and VT Scan.txt.  
+
+# What is New
+
+Now MAUPS v1.1 is able to do static malware in very deep way, the two more features is added.
+
+           1] Header Members
+           
+                      a] IMAGE_DOS_HEADER
+                      b] IMAGE_NT_HEADERS
+                      
+           2] Optional Headers
+Now it is able to analysis Full VT Analysis and store the out put as VT Scan.txt for the how many AV (Name of AV eg Sophos, symantec. etc) is able to detect with the name of detected malware, will contain VirusTotal output as VT Scan.txt for the how many AV (Name of AV eg Sophos, symantec. etc) is able to detect with the name of detected malware, will contain VirusTotal output. 
+
+Eg:
+ 
+ Malwarebytes = detected: False,version:2.1.1.1115,result: None,update:20170810
+ Symantec = detected: True,version:1.4.0.0,result:PUA.OpenCandy,update:20170810
+ .
+ .
+ .
+ Sophos = detected: False,version:4.98.0,result: None,update:20170810
 
 # Pre-Requesites (Only for Windows OS)
 
