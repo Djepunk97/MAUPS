@@ -23,8 +23,12 @@ Eg:
 Malwarebytes = detected: False,version:2.1.1.1115,result: None,update:20170810                                                      
 
 Symantec = detected: True,version:1.4.0.0,result:PUA.OpenCandy,update:20170810
+
+
  .
+ 
  .
+ 
  .
  
  
