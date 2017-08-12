@@ -20,8 +20,7 @@ Now it is able to analysis Full VT Analysis and store the out put as VT Scan.txt
 
 Eg:
  
- Malwarebytes = detected: False,version:2.1.1.1115,result: None,update:20170810
- Symantec = detected: True,version:1.4.0.0,result:PUA.OpenCandy,update:20170810
+Malwarebytes = detected: False,version:2.1.1.1115,result: None,update:20170810                                                    Symantec = detected: True,version:1.4.0.0,result:PUA.OpenCandy,update:20170810
  .
  .
  .
@@ -38,9 +37,6 @@ pip install -r requirements.txt
 python maups.py
 
 # Example
-
-
-
 
            M   M   AAAA   U   U   PPPP    SSSSS
            M M M   A  A   U   U   P   P   S
