@@ -20,13 +20,7 @@ Now it is able to perform full VT Analysis and store the output as VT Scan.csv f
 
 Eg:
 
-AV Name	           Detection	AV Version	           Malware Name	           AV Updated Date
-MicroWorld-eScan	TRUE	version:14.0.297.0	Trojan.GenericKD.30318425	20180209
-CAT-QuickHeal	TRUE	version:14.00	Trojan.Multi	           20180208
-Cylance	           TRUE	version:2.3.1.101	Unsafe	                      20180209
-AegisLab	           TRUE	version:4.2	Troj.Dropper.W32.Injector!c	20180208
-K7GW	           TRUE	version:10.39.26155	Trojan ( 005263591 )	           20180208
-K7AntiVirus	TRUE	version:10.39.26155	Trojan ( 005263591 )	           20180208
+![alt text](https://github.com/ShilpeshTrivedi/MAUPS/blob/master/VT%20Scan.png)
 
 # Pre-Requesites (Only for Windows OS)
 
