@@ -13,7 +13,7 @@ You have to enter your Virus Total API Key inside the program at on line number 
            key="" # <= Here Enter Your VT API Key between double quotes
 
 
-Now MAUPS v1.1 is able to do static malware in very deep way, the two more features is added.
+Now MAUPS v1.1 is able to do static malware anaysis in a very deep way, the two new more features has been added.
 
            1] Header Members
            
