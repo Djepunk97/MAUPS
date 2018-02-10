@@ -16,23 +16,17 @@ Now MAUPS v1.1 is able to do static malware in very deep way, the two more featu
                       b] IMAGE_NT_HEADERS
                       
            2] Optional Headers
-Now it is able to perform full VT Analysis and store the output as VT Scan.txt for the how many AV (Name of AV eg Sophos, symantec. etc) is able to detect with the name of detected malware, will contain VirusTotal output. 
+Now it is able to perform full VT Analysis and store the output as VT Scan.csv for the howmany AV (Name of AV eg Sophos, symantec. etc) is able to detect with the name of detected malware, will contain VirusTotal output. 
 
 Eg:
- 
-Malwarebytes = detected: False,version:2.1.1.1115,result: None,update:20170810                                                      
 
-Symantec = detected: True,version:1.4.0.0,result:PUA.OpenCandy,update:20170810
-
-
- .
- 
- .
- 
- .
- 
- 
- Sophos = detected: False,version:4.98.0,result: None,update:20170810
+AV Name	           Detection	AV Version	           Malware Name	           AV Updated Date
+MicroWorld-eScan	TRUE	version:14.0.297.0	Trojan.GenericKD.30318425	20180209
+CAT-QuickHeal	TRUE	version:14.00	Trojan.Multi	           20180208
+Cylance	           TRUE	version:2.3.1.101	Unsafe	                      20180209
+AegisLab	           TRUE	version:4.2	Troj.Dropper.W32.Injector!c	20180208
+K7GW	           TRUE	version:10.39.26155	Trojan ( 005263591 )	           20180208
+K7AntiVirus	TRUE	version:10.39.26155	Trojan ( 005263591 )	           20180208
 
 # Pre-Requesites (Only for Windows OS)
 
