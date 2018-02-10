@@ -8,6 +8,11 @@ This is a portable script written in python used for "Static Analysis" of malwar
 
 # What is New
 
+You have to enter yor Virus Total API Key inside program at line number 51.
+
+           key="" # <= Here Enter Your VT API Key between double quotes
+
+
 Now MAUPS v1.1 is able to do static malware in very deep way, the two more features is added.
 
            1] Header Members
@@ -47,5 +52,3 @@ python maups.py
         +++++++++++++++++++++++++++++++++++++++++++++++++
 
  [*] Enter file name which you want to scan :- Path_to_the_malware
-
- [*] Enter Virus Total API Key :- VirusTotal_API_key
