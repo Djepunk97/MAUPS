@@ -24,7 +24,7 @@ Now MAUPS v1.1 is able to do static malware anaysis in a very deep way, the two 
            
 Now it is able to perform full VT Analysis and store the output as VT Scan.csv which contain how many AV (Name of AV eg Sophos, symantec. etc) are able to detected malware with the respectively malware name. 
 
-Eg:
+# Output
 
 ![alt text](https://github.com/ShilpeshTrivedi/MAUPS/blob/master/VT%20Scan.png)
 
