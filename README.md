@@ -8,7 +8,7 @@ This is a portable script written in python used for "Static Analysis" of malwar
 
 # What is New
 
-You have to enter yor Virus Total API Key inside program at line number 51.
+You have to enter your Virus Total API Key inside the program at on line number 51.
 
            key="" # <= Here Enter Your VT API Key between double quotes
 
