@@ -21,7 +21,8 @@ Now MAUPS v1.1 is able to do static malware in very deep way, the two more featu
                       b] IMAGE_NT_HEADERS
                       
            2] Optional Headers
-Now it is able to perform full VT Analysis and store the output as VT Scan.csv for the howmany AV (Name of AV eg Sophos, symantec. etc) is able to detect with the name of detected malware, will contain VirusTotal output. 
+           
+Now it is able to perform full VT Analysis and store the output as VT Scan.csv which contain how many AV (Name of AV eg Sophos, symantec. etc) are able to detected malware with the respectively malware name. 
 
 Eg:
 
