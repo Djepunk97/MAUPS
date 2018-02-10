@@ -4,7 +4,7 @@ Malware Analysis Using Python Script v1.1
 
 # Description
 
-This is a portable script written in python used for "Static Analysis" of malwares. Focus on malware PE Headers, Strings, Image Type, MD5 Hash, VirusTotal Analysis. You can skip VirusTotal API Key if dont want to upload your sample on VirusTotal. Supported wherever python is installed (Tested on Linux, Windows). MAUPS will generate three output files in the same folder as the script: Strings.txt for the extracted strings, PE Analysis.txt for PE headers and VT Scan.txt.  
+This is a portable script written in python used for "Static Analysis" of malwares. Focus on malware PE Headers, Strings, Image Type, MD5 Hash, VirusTotal Analysis. You can skip VirusTotal API Key if dont want to upload your sample on VirusTotal. Supported wherever python is installed (Tested on Linux, Windows). MAUPS will generate four output files in the same folder as the script: Strings.txt for the extracted strings, PE Analysis.txt for PE headers, VT Basic Scan.txt and VT Scan.txt for virus total analysis.  
 
 # What is New
 
