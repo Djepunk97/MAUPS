@@ -28,7 +28,7 @@ Now it is able to perform full VT Analysis and store the output as VT Scan.csv w
 
 ![alt text](https://github.com/ShilpeshTrivedi/MAUPS/blob/master/VT%20Scan.png)
 
-# Pre-Requesites (Only for Windows OS)
+# Pre-Requesites
 
 Install the following libraries: requests, pefile and pywin32.
 
